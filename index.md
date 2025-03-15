@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: LE BLOG
 ---
-content here
+Le contenu démarre à partir d'ici :
